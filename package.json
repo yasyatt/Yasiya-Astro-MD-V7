@@ -1,16 +1,16 @@
 
 
 {
-    "name": "Astro-Md",
-    "version": "0.0.6",
-    "description": "Multi device whatsapp bot by SamPandey001.",
-    "main": "index.js",
-    "type": "commonjs",
-    "license": "GPL-3.0",
+   "name": "Astro-Md",
+   "version": "0.0.6",
+   "description": "Multi device whatsapp bot.",
+   "main": "index.js",
+   "type": "commonjs",
+   "license": "GPL-3.0",
 "scripts": {
-     "start": "pm2 start index.js --deep-monitoring --attach --name astro",
-     "stop": "pm2 stop astro"
-     },
+    "start": "pm2 start index.js --deep-monitoring --attach --name astro",
+    "stop": "pm2 stop astro"
+    },
 "repository": {
 "type": "git",
 "url": "git+https://github.com/.git"
@@ -26,9 +26,12 @@
 "@adiwajshing/baileys": "^4.4.0",
 "pino": "^7.0.5",
 "pastebin-js": "^1.0.6",
+"wa-sticker-formatter": "^4.3.2",
 "sequelize" : "^6.19.0" ,
 "megajs": "^1.1.0",
+"@blackamda/telegram-image-url": "^1.0.0",
 "cheerio": "^1.0.0-rc.10",
+"axios": "^1.2.2",
 "@bochilteam/scraper": "^3.0.0",
 "jimp": "^0.16.2", 
 "esana-node-api": "latest",
@@ -46,7 +49,9 @@
 "g-i-s": "^2.1.6",
 "@hapi/boom" : "^10.0.0",
 "yt-search": "latest",
+"file-type": "^16.5.3",
 "node-webpmux": "^3.1.1",  
+"queen_amdi_core": "^1.2.6",
 "qrcode-terminal": "^0.12.0"
 }
 }
