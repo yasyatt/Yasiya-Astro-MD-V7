@@ -9,3 +9,4 @@
 ***Star ⭐ repo if you like Astro.***
 
 ⚠️ In order to increase the security of Whatsapp, because of providing a new whatsapp account banning system from meta company, your whatsapp account may be banned after deploying our bot. Please note that we cannot be held responsible for that. Because use this bot at your own risk.
+
