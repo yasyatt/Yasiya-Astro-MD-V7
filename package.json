@@ -1,16 +1,16 @@
 
 
 {
-   "name": "Astro-Md",
-   "version": "0.0.6",
-   "description": "Multi device whatsapp bot.",
-   "main": "index.js",
-   "type": "commonjs",
-   "license": "GPL-3.0",
+  "name": "Astro-Md",
+  "version": "0.0.6",
+  "description": "Multi device whatsapp bot.",
+  "main": "index.js",
+  "type": "commonjs",
+  "license": "GPL-3.0",
 "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name astro",
-    "stop": "pm2 stop astro"
-    },
+   "start": "pm2 start index.js --deep-monitoring --attach --name astro",
+   "stop": "pm2 stop astro"
+   },
 "repository": {
 "type": "git",
 "url": "git+https://github.com/.git"
@@ -25,8 +25,15 @@
 "dependencies": {
 "@adiwajshing/baileys": "^4.4.0",
 "pino": "^7.0.5",
+  "pastebin-js": "latest",
+"node-html-parser": "^6.1.4",
+  "raganork-bot": "^3.0.1",
 "pastebin-js": "^1.0.6",
+"acrcloud": "^1.4.0",
 "wa-sticker-formatter": "^4.3.2",
+"got": "^11.8.2",
+"form-data": "^4.0.0",
+"google-translate-tts": "^0.3.0",
 "sequelize" : "^6.19.0" ,
 "megajs": "^1.1.0",
 "@blackamda/telegram-image-url": "^1.0.0",
@@ -35,6 +42,7 @@
 "@bochilteam/scraper": "^3.0.0",
 "jimp": "^0.16.2", 
 "esana-node-api": "latest",
+"stream": "latest",
 "postgres_dbm": "^1.0.0",
 "crypto-js": "^4.1.1",
 "@bochilteam/scraper": "^4.0.22-alpha.0",

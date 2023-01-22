@@ -10,5 +10,6 @@ WORKDIR /astro
 COPY . /astro
 
 RUN yarn
+RUN apt-get -y update && apt-get -y upgrade && apt-get install -y ffmpeg
 
 CMD ["yarn", "start"]
