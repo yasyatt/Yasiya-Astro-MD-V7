@@ -1,6 +1,6 @@
 ## Deployment Methods
 ---
-1. ***Get [SESSION-ID](https://astro-qr.onrender.com) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [SESSION-ID](https://replit.com/@astromdqr/Astro-MD-V7-Qr?output%20only=1&lite=1#index.js) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 ### Koyeb Deploy
 1. ***Create Koyeb Account From [Here](https://app.koyeb.com/auth/signin).***
