@@ -11,14 +11,14 @@
    },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/.git"
+"url": "git+https://github.com/vihangayt0/Astro-MD-V6.git"
 },
 "keywords": [
 "whatsapp"
 ],
 "author": "VihangaYT",
 "developer": "VihangaYT",
-"homepage": "https://github.com/",
+"homepage": "https://github.com/vihangayt0/Astro-MD-V6",
 "dependencies": {
 "@adiwajshing/baileys": "^5.0.0",
 "pino": "^7.0.5",
@@ -63,6 +63,7 @@
 "node-webpmux": "^3.1.1",  
 "qrcode-terminal": "^0.12.0",
 "youtubei.js": "^2.9.0",
-"fouadwa-scraper": "^1.0.1"
+"fouadwa-scraper": "^1.0.1",
+"apkcombo-scraper": "^1.0.0"
 }
 }
